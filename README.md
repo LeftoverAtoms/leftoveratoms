@@ -16,7 +16,7 @@ public struct Adam
             "Image Editing",                 // GIMP
             "Video Editing"                  // Devinci Revolve
         };
-        Objective = "Treyarch Studios";      // Work on Call of Duty: Zombies
+        Objective = "Treyarch Studios";      // Call of Duty: Zombies
     }
 }
 ```

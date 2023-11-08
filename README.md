@@ -4,7 +4,6 @@ public struct Adam
     public string Specialty;
     public string Title;
     public string[] Skills;
-    public string Objective;
 
     public Adam()
     {
@@ -16,7 +15,6 @@ public struct Adam
             "Image Editing",                 // GIMP
             "Video Editing"                  // Devinci Revolve
         };
-        Objective = "Treyarch Studios";      // Call of Duty: Zombies
     }
 }
 ```

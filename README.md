@@ -1,4 +1,5 @@
 ```csharp
+// TODO: Create a better introduction.
 public readonly struct Human
 {
     public string Name { get; }
